@@ -2,5 +2,5 @@
 
 Sandbox for the code in the slides of the presentation.
 
-Link to slideshare coming next.
-
+Slides:
+http://www.slideshare.net/silviorelli/rails-routes-off-the-tracks
